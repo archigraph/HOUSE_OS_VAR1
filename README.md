@@ -1,0 +1,1 @@
+# HOUSE_OS_VAR1
